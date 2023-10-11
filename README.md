@@ -1,0 +1,1 @@
+# Vezba_1_Skript_jezici
