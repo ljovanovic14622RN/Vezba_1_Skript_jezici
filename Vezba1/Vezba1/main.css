@@ -1,0 +1,16 @@
+body{ background-color: #b36821; }
+.container-fluid{
+    background-color:#ac2a25;
+}
+.navbar-nav{
+    background-color:#811c19;
+}
+.nav-item :hover{
+    background-color:#e4403b;
+}
+main.container{ 
+background-color:#c97424;
+box-shadow: 0px 0px 12px rgb(110, 1, 1); 
+border:1px solid rgb(53, 0, 0);
+margin-top:15px; 
+}
